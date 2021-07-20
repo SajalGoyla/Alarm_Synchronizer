@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2587111621",
+    "project_id": "alarmsynchronizermk2",
+    "storage_bucket": "alarmsynchronizermk2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2587111621:android:b2f7e1f928bf4878c100ac",
+        "android_client_info": {
+          "package_name": "com.example.alarm_synchronizer_mk2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2587111621-2r1aps95tqm78vb7hrbbrd7cl9bquvb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWU8Z6AJlMWVq4MXqJ4u47JTYdxLxalIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2587111621-2r1aps95tqm78vb7hrbbrd7cl9bquvb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
